@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-To-Do-Firebase/static/css/main.f69cd641.css",
+    "main.js": "/React-To-Do-Firebase/static/js/main.cf3d462c.js",
+    "index.html": "/React-To-Do-Firebase/index.html",
+    "main.f69cd641.css.map": "/React-To-Do-Firebase/static/css/main.f69cd641.css.map",
+    "main.cf3d462c.js.map": "/React-To-Do-Firebase/static/js/main.cf3d462c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f69cd641.css",
+    "static/js/main.cf3d462c.js"
+  ]
+}
